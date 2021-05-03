@@ -1,0 +1,3 @@
+IP = 'localhost'
+PORT = 9999
+LISTEN_CONNECTIONS_NUM = 3
